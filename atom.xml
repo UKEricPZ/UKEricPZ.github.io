@@ -3,11 +3,11 @@
   <title>UKEricPZ blog</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://ukericpz.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://ukericpz.github.io/"/>
   <updated>2023-10-02T11:39:22.003Z</updated>
-  <id>http://example.com/</id>
+  <id>https://ukericpz.github.io/</id>
   
   <author>
     <name>UKEricPZ</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/10/02/hello-world/"/>
-    <id>http://example.com/2023/10/02/hello-world/</id>
+    <link href="https://ukericpz.github.io/2023/10/02/hello-world/"/>
+    <id>https://ukericpz.github.io/2023/10/02/hello-world/</id>
     <published>2023-10-02T11:39:22.003Z</published>
     <updated>2023-10-02T11:39:22.003Z</updated>
     
