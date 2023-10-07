@@ -6,7 +6,7 @@
   <link href="https://blog.ukericpz.com/atom.xml" rel="self"/>
   
   <link href="https://blog.ukericpz.com/"/>
-  <updated>2023-10-07T05:52:47.798Z</updated>
+  <updated>2023-10-07T14:23:06.256Z</updated>
   <id>https://blog.ukericpz.com/</id>
   
   <author>
@@ -17,20 +17,16 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello Blog</title>
+    <title>Hello-World Blog</title>
     <link href="https://blog.ukericpz.com/2023/10/02/hello-world/"/>
     <id>https://blog.ukericpz.com/2023/10/02/hello-world/</id>
     <published>2023-10-02T11:39:22.003Z</published>
-    <updated>2023-10-07T05:52:47.798Z</updated>
+    <updated>2023-10-07T14:23:06.256Z</updated>
     
-    <content type="html"><![CDATA[<p>如果你只看到这一篇，就是什么都没有捏（XD</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;stido.h&gt;</span></span></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span>&#123;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;Hello blog!\n&quot;</span>);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p>如果你只看到这一篇，就是什么都没有捏（XD</p><span id="more"></span><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;stido.h&gt;</span></span></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span>&#123;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;Hello blog!\n&quot;</span>);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;如果你只看到这一篇，就是什么都没有捏（XD&lt;/p&gt;
-&lt;figure class=&quot;highlight c&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line</summary>
-      
+    <summary type="html">&lt;p&gt;如果你只看到这一篇，就是什么都没有捏（XD&lt;/p&gt;</summary>
     
     
     
