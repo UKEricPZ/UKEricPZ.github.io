@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ukericpz.github.io/2023/10/02/hello-world/</loc>
+    <loc>https://blog.ukericpz.com/2023/10/02/hello-world/</loc>
     
-    <lastmod>2023-10-02</lastmod>
+    <lastmod>2023-10-07</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12,7 +12,7 @@
   
 
   <url>
-    <loc>https://ukericpz.github.io/</loc>
+    <loc>https://blog.ukericpz.com/</loc>
     <lastmod>2023-10-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
